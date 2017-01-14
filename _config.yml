@@ -1,17 +1,16 @@
 # Site settings
-email: 
-baseurl: "http://sami.pw"
+email: me@sami.pw
+baseurl: "sami.pw"
 paginate: 5
 paginate_path: "/blog/page-:num"
-google_analytics: 
-url: "http://sami.pw"
+google_analytics: UA-87752001-1
 
 # SEO settings
-title: Trophy
+title: Sami
 description: 
 url: "http://sami.pw"
-twitter_username: 
-default_img: 
+twitter_username: @syessou
+default_img:  
 
 
 # Profile settings
