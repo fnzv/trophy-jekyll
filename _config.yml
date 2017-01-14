@@ -4,7 +4,7 @@ baseurl: "http://sami.pw"
 paginate: 5
 paginate_path: "/blog/page-:num"
 google_analytics: 
-url: http://sami.pw
+url: "http://sami.pw"
 
 # SEO settings
 title: Trophy
